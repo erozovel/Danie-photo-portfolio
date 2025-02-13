@@ -1,1 +1,1 @@
-# Danie-photo-portfolio
+# Photo-portfolio
